@@ -4,5 +4,5 @@
 	<LastName>Reddy</LastName>
 	<Password>123456</Password>
 	<Email>sid@gmail.com</Email>
-	<Picture location=""></Picture>
+	<Picture location="server/db1/123.jpg"></Picture>
 </UserPROFILE>
